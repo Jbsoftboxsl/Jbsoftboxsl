@@ -20,8 +20,10 @@
 ## Interested in,
 <div align="center">
   <div>💻 Programming software applications.</div>
-  
 </div>
+
+## Software
+  [![Check out Students Marks Analyzer (SMA)](https://img.shields.io/badge/Check%20out-SMA-blue)](https://github.com/Jbsoftboxsl/S.M.A_Free_download)
 
 ## How to reach me?
 <div align="center">
