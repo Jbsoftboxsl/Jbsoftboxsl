@@ -7,6 +7,8 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=jbsoftboxsl&color=blue)
 ![Downloads](https://img.shields.io/github/downloads/Jbsoftboxsl/S.M.A_Free_download/total)
+![Monthly Downloads](https://img.shields.io/github/downloads/Jbsoftboxsl/S.M.A_Free_download/latest/total?label=Monthly%20Downloads)
+
 
 ---
 
