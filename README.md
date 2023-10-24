@@ -20,11 +20,13 @@
 
 ## How to reach me?
 <div align="center">
-   <a href="https://t.me/Jbsoftbox" target="blank">
+  <a href="https://t.me/Jbsoftbox" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="JB_softbox" width="50" />
   </a
+  <a href="https://wa.me/94703640017" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="JB_softbox" width="50" />
+  </a
 </div>
-
 <br>
 
 
