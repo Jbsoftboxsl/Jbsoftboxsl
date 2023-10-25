@@ -9,21 +9,21 @@
 ![Downloads](https://img.shields.io/github/downloads/Jbsoftboxsl/S.M.A_Free_download/total)
 ![Monthly Downloads](https://img.shields.io/github/downloads/Jbsoftboxsl/S.M.A_Free_download/latest/total?label=Monthly%20Downloads)
 
+</div>
 
 ---
 
-</div>
 <p align="center">
-  I am Janula, an enthusiastic learner on a journey to become a skilled software developer. I'm passionate about creating software solutions and enhancing my programming skills.
+  I'm Janula, a passionate software developer on a journey to craft elegant solutions. With a love for programming, I'm dedicated to honing my skills and building impactful applications.
 </p>
 
 ## Interested in,
 <div align="center">
-  <div>💻 Programming software applications.</div>
+  <div>💻 Building software applications that make a difference.</div>
 </div>
 
 ## Software
-  [![Check out Students Marks Analyzer (SMA)](https://img.shields.io/badge/Check%20out-SMA-blue)](https://github.com/Jbsoftboxsl/S.M.A_Free_download)
+[![Check out Students Marks Analyzer (SMA)](https://img.shields.io/badge/Check%20out-SMA-blue)](https://github.com/Jbsoftboxsl/S.M.A_Free_download)
 
 ## How to reach me?
 <div align="center">
@@ -44,5 +44,3 @@
 [![JB Softbox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jbsoftboxsl&show_icons=true&theme=tokyonight)](https://github.com/Jbsoftboxsl)
 
 </div>
-
-
